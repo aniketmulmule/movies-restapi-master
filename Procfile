@@ -1,1 +1,1 @@
-web: bin/movies-restapi-master
+web: go app.go
