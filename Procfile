@@ -1,1 +1,1 @@
-web: go app.go
+web: app
